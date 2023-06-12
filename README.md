@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musti17&label=Profile%20views&color=0e75b6&style=flat" alt="musti17" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ASP.NET MVC**
 
 - 📫 How to reach me **mustafazahid167@gmail.com**
 
