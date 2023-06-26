@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
