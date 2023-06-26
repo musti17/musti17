@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musti17&show_icons=true&locale=en" alt="musti17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musti17&" alt="musti17" /></p>
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
