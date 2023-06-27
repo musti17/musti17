@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musti17&show_icons=true&locale=en" alt="musti17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musti17&" alt="musti17" /></p>
+
+  [![Mustafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musti17&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/musti17/github-readme-activity-graph)
