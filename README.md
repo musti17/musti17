@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **eTickets/Employee Onboarding**
 
-- 🌱 I’m currently learning **ASP.NET/Javascript Frameworks/Apache Kafka**
+- 🌱 I’m currently learning **RabbitMQ/Kubernetes/Apache Kafka**
 
 - 📫 How to reach me **mustafazahid167@gmail.com**
 
