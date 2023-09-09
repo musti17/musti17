@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musti17&label=Profile%20views&color=0e75b6&style=flat" alt="musti17" /> </p>
 
-- 🔭 I’m currently working on **Vendor Onboarding**
+- 🔭 I’m currently working on **Fractional Land Ownership**
 
-- 🌱 I’m currently learning **RabbitMQ/Kubernetes/Apache Kafka**
+- 🌱 I’m currently learning **DevOps in Depth**
 
 - 📫 How to reach me **mustafazahid167@gmail.com**
 
