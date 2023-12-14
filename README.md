@@ -22,7 +22,7 @@
 </p>
 
 # 👨‍💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,bash,bootstrap,codepen,html,css,js,ts,react,tailwind,dotnet,eclipse,express,git,github,java,jquery,laravel,linux,materialui,mongodb,mysql,nodejs,php,postman,pug,vscode,visualstudio,vite,docker,kubernetes,rabbitmq,kafka&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,bash,bootstrap,codepen,html,css,js,ts,react,tailwind,dotnet,eclipse,express,git,github,java,jquery,laravel,linux,materialui,mongodb,mysql,nodejs,php,postman,pug,vscode,visualstudio,vite,docker,kubernetes,rabbitmq&theme=light)](https://skillicons.dev)
 
 # 🔥Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musti17&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="musti17" /></p>
