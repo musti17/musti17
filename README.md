@@ -25,9 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,bash,bootstrap,codepen,html,css,js,ts,react,tailwind,dotnet,eclipse,express,git,github,java,jquery,laravel,linux,materialui,mongodb,mysql,nodejs,php,postman,pug,vscode,visualstudio,vite,docker,kubernetes,rabbitmq&theme=light)](https://skillicons.dev)
 
 # 🔥Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musti17&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="musti17" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=musti17&layout=compact&langs_count=8&theme=algolia"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musti17&show_icons=true&locale=en&theme=github_dark" alt="musti17" /></p>
+
+<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=musti17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musti17&theme=github_dark" alt="musti17" /></p>
 
