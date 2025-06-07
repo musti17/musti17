@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Fractional Land Ownership**
 
-- 🌱 I’m currently learning **DevOps in Depth**
+- 📚 Exploring **L2 chains**, **scalability solutions**, and reading **blockchain research papers** weekly
 
 - 📫 How to reach me **mustafazahid167@gmail.com**
 
