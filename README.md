@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate Full Stack Developer 🤵‍♂️</h3>
+<h3 align="center">Tech-agnostic Engineer passionate about scalable systems, smart contracts, and clean code ⚙️📦🧠</h3>
 <img align="right" alt="Coding" width="400" height="340" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 
